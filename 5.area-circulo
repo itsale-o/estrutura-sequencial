@@ -1,7 +1,0 @@
-#Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
-
-raio = float(input('Qual é o raio do círculo? '))
-pi = math.pi
-area = pi * (raio**2)
-
-print('Assim, a área do círculo é: {:.2f}'.format(area))
