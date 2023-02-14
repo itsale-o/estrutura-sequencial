@@ -1,6 +1,0 @@
-# Faça um Programa que peça dois números e imprima a soma.
-
-num1 = float(input('Insira um número: '))
-num2 = float(input('Insira outro número: '))
-
-print('A soma dos números é: {}'.format(num1 + num2))
