@@ -1,8 +1,0 @@
-#Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
-
-lado = float(input('Qual é a medida de um dos lados do quadrado? '))
-area = lado ** 2
-dobro_area = area * 2
-
-print('Área: {:.2f}'.format(area))
-print('O dobro da área é: {:.2f}'.format(dobro_area))
